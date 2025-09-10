@@ -3,6 +3,9 @@ The solution is designed to automate the extraction and transformation of CSV fi
 
 The final, cleaned file is then saved into a "Gold" folder, ready for further processing.
 
+<img width="2324" height="964" alt="image" src="https://github.com/user-attachments/assets/8d5c58b5-a13e-427a-92de-2674a6680ac3" />
+
+
 ### Features
 - Fully automated via cron on Ubuntu
 - Written in Bash with zero dependencies
