@@ -3,9 +3,9 @@ Loading enviormantal variables for csv...
 Downloading CSV and saving to RAW...
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
-  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0 7876k    0  8703    0     0   2407      0  0:55:50  0:00:03  0:55:47  2407  4 7876k    4  355k    0     0  78602      0  0:01:42  0:00:04  0:01:38 78605100 7876k  100 7876k    0     0  1256k      0  0:00:06  0:00:06 --:--:-- 1391k100 7876k  100 7876k    0     0  1239k      0  0:00:06  0:00:06 --:--:-- 1659k
-Saved: /mnt/c/Users/Bluechip/CDE/ASSIGNMENT/Scripts/Bash-Scripts/Bash-ETL/RAW/annual-enterprise-survey-2023-financial-year-provisional.csv
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:01 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:02 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:03 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:04 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:05 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:06 --:--:--     0  0     0    0     0    0     0      0      0 --:--:--  0:00:07 --:--:--     0  0 7876k    0 42412    0     0   4920      0  0:27:19  0:00:08  0:27:11  8632100 7876k  100 7876k    0     0   713k      0  0:00:11  0:00:11 --:--:-- 1244k100 7876k  100 7876k    0     0   711k      0  0:00:11  0:00:11 --:--:-- 1468k
+Saved: /mnt/c/Users/Bluechip/CDE/ASSIGNMENT/CDE_BASH_SUBMISSION/Scripts/Bash-Scripts/Bash-ETL/RAW/annual-enterprise-survey-2023-financial-year-provisional.csv
 Transformation started...
 Transformation complete
 Loading started....
-Saved: /mnt/c/Users/Bluechip/CDE/ASSIGNMENT/Scripts/Bash-Scripts/Bash-ETL/Gold/2023_year_finance.csv
+Saved: /mnt/c/Users/Bluechip/CDE/ASSIGNMENT/CDE_BASH_SUBMISSION/Scripts/Bash-Scripts/Bash-ETL/Gold/2023_year_finance.csv

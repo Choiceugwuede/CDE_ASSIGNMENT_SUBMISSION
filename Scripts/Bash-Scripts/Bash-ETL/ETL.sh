@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 
-WORK_DIR="/mnt/c/Users/Bluechip/CDE/ASSIGNMENT/Scripts/Bash-Scripts/Bash-ETL"
+WORK_DIR="/mnt/c/Users/Bluechip/CDE/ASSIGNMENT/CDE_BASH_SUBMISSION/Scripts/Bash-Scripts/Bash-ETL"
 
 # ===== EXTRACT=====
 echo "Extraction started..."
