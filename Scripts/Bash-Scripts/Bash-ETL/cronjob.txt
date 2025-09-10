@@ -1,0 +1,6 @@
+wsl.exe -d Ubuntu  -- launch ubuntu
+
+crontab -e  -- open crontab editor
+
+Scheduled to run at 12:00 everyday and echo output and errors to log file.
+0 0 * * * /mnt/host/c/Users/Bluechip/CDE/ASSIGNMENT/Scripts/Bash-Scripts/Bash-ETL/ETL.SH > /mnt/host/c/Users/Bluechip/CDE/ASSIGNMENT/Scripts/Bash-Scripts/Bash-ETL/ETL.LOG 2>&1
