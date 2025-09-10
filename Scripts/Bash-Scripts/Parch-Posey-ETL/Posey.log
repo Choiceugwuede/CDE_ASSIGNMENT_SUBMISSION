@@ -1,0 +1,23 @@
+Files downloading...
+Download Complete
+Setting Posey Database and loading tables...
+TRUNCATE TABLE
+Copying Posey_Data/accounts.csv into table accounts
+COPY 351
+Table accounts refreshed succesfully
+TRUNCATE TABLE
+Copying Posey_Data/orders.csv into table orders
+COPY 6912
+Table orders refreshed succesfully
+TRUNCATE TABLE
+Copying Posey_Data/region.csv into table region
+COPY 4
+Table region refreshed succesfully
+TRUNCATE TABLE
+Copying Posey_Data/sales_reps.csv into table sales_reps
+COPY 50
+Table sales_reps refreshed succesfully
+TRUNCATE TABLE
+Copying Posey_Data/web_events.csv into table web_events
+COPY 9073
+Table web_events refreshed succesfully
